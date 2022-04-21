@@ -2,7 +2,8 @@
     //error reporting on test server, REMOVE FOR PRODUCTION SERVER!!
     ini_set("display_errors", 1); 		
     error_reporting(E_ALL);
-
+    require_once(search.php);
+    require_once(connect.php);
     //define our initial variable for session ID
     $code = "";
 
@@ -203,11 +204,11 @@
             </div>
         </nav>
     </header>
-    '. 
+    ';
     //Go through page content per page and call the content page dependant
     //https://stackoverflow.com/questions/5755821/if-index-php-show-this-if-not-show-this#:~:text=To%20do%20it%20the%20way%20you%20want%2C%20use,the%20side%20bar%20page%20can%20check%20that%20variable.
     if ($_SERVER['PHP_SELF'] == 'index.php') {
-        echo '
+    echo '
     <section class="scrud">
         <button id="create" class="scrud">create</button>
         <button id="read" class="scrud">read</button>
@@ -219,10 +220,10 @@
         <!--- Put form feed here and return $i as the result in pagination --->
         <table id="1" class="table_data">    
             <tr><th><td>ID</td><td>name</td><td>data</td><td>number</td><td>a dress</td><td>nice shiny shoes</td></th></tr>
-            '. $row; .'
+            '. $row .'
         </table>
     </section>
-        ' .; 
+        ' . 
     } elseif ($_SERVER['PHP_SELF'] == 'about.php') {
         echo 'html to complete';
         continue;
