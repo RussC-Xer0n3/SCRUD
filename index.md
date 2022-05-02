@@ -77,7 +77,7 @@
       <a href="https://www.pinterest.co.uk/russellclarke821/"><i class="fa fa-pinterest-p w3-hover-opacity"></i></a>
       <a href="https://twitter.com/Developing821"><i class="fa fa-twitter w3-hover-opacity"></i></a>
       <a href="https://www.linkedin.com/in/russell-clarke-09a1a5238"></a><i class="fa fa-linkedin w3-hover-opacity"></i>
-      <a href="https://russc-xer0n3.github.io">My CV and additionsl information</a>
+      <br><a href="https://russc-xer0n3.github.io">My CV and additional information</a>
     <br>
 </nav>
 # SCRUD Buttons
