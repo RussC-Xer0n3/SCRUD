@@ -53,13 +53,14 @@
           <i class="fa fa-caret-down"></i>
         </button>
         <div class="dropdown-content">
+          <a href="https://russc-xer0n3.github.io/Tumor-Probability">Tumor probability</a>
           <a href="https://russc-xer0n3.github.io/NetPCaC">NetPCaC</a>
           <a href="https://russc-xer0n3.github.io/LANDROVER">LANDROVER</a>
           <a href="https://russc-xer0n3.github.io/MAC">MAC Address</a>
           <a href="https://russc-xer0n3.github.io/SCRUD">SCRUD</a>
           <a href="https://russc-xer0n3.github.io/Remove">Code Syntax Removal</a>
           <a href="https://russc-xer0n3.github.io/PassGen">PassGen</a>
-          <a href="https://russc-xer0n3.github.io/C_Shapes">C Programming Shap`es</a>
+          <a href="https://russc-xer0n3.github.io/C_Shapes">C Programming Shapes</a>
           <a href="https://russc-xer0n3.github.io/Shapes---python">Python Shapes and space</a>
           <a href="https://russc-xer0n3.github.io/The-old-Fusion-Repository">Fusion?</a>
           <a href="https://russc-xer0n3.github.io/The-Russian-Wedding-Rings">The Russian Wedding Rings</a>
